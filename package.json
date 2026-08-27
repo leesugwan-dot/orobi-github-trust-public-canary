@@ -1,0 +1,8 @@
+{
+  "name":"orobi-github-trust-public-canary",
+  "version":"1.0.0",
+  "private":true,
+  "description":"Minimal synthetic GitHub required-check canary",
+  "scripts":{"test":"node --test"},
+  "engines":{"node":">=20"}
+}
